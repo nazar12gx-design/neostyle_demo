@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: neostyle-kg
+    runtime: static
+    buildCommand: python build.py
+    staticPublishPath: ./dist
