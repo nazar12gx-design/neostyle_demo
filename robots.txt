@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://neostyle-kg.onrender.com/sitemap.xml
